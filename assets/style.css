@@ -51,7 +51,7 @@ img{
     text-align: center;
 }   
 .box{
-  position: center;
+    align-content: center;
   display:inline-block;
   top:100px;
   margin-left: 200px;    
@@ -86,37 +86,8 @@ input[type=text]:focus, input[type=password]:focus, input[type=number]:focus{
 }
 .btn:hover {
   opacity: 1;
-}      
-
-/*.container2 { 
-  position: center;
-  margin-left: 200px;
-  margin: 200px;
-  max-width: 300px;
-  padding: 16px;
-  background-color: aquamarine;
-}
-input[type=text], input[type=password], input[type=number] {
-  width: 100%;
-  padding: 15px;
-  margin: 5px 0 22px 0;
-  border: none;
-  background: #f1f1f1;
-}
- input[type=text]:focus, input[type=password]:focus, input[type=number]:focus{
-  background-color: #ddd;
-  outline: none;
-}
- .btn {
-  padding: 16px 20px;
-  border: none;
-  cursor: pointer;
-  width: 100%;
-  opacity: 0.9;
-}
- .btn:hover {
-  opacity: 1;
-}*/
+} 
+     
 .footer{
     background-color: orange;
     text-align: center;
